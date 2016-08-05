@@ -7,7 +7,7 @@ DO website: http://www.disease-ontology.org
 
 DO production has moved to OWL (November 2015).
 DO will maintain our SVN repository, 
-mirroring updates from GitHub on a biweekly basis. 
+mirroring updates from GitHub on a bi-weekly basis. 
 
 A tutorial describing DO's editorial activies is avaiable at: 
 https://github.com/DiseaseOntology/HumanDiseaseOntology/blob/master/src/ontology/README-editors.md
